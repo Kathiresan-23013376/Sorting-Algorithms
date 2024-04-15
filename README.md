@@ -51,7 +51,12 @@ for i in range(1,len(num)):
 print(num)
 ```
 ## Output:
-![image](https://github.com/Kathiresan-23013376/Sorting-Algorithms/assets/150008375/fc9f1272-d7c3-407b-8bf0-8152ac821e73)
+i)Selection sort:
+![Screenshot 2024-04-14 172147](https://github.com/Kathiresan-23013376/Sorting-Algorithms/assets/150008375/0ff91314-c750-4fa7-9d26-7b777e1f073e)
+
+ii)Insertion sort:
+![Screenshot 2024-04-14 172321](https://github.com/Kathiresan-23013376/Sorting-Algorithms/assets/150008375/b4bb4ade-af36-492b-9689-d07defb65705)
 
 ## Result:
+![image](https://github.com/Kathiresan-23013376/Sorting-Algorithms/assets/150008375/fc9f1272-d7c3-407b-8bf0-8152ac821e73)
 Thus the program is written to perform selection sort and insertion sort using python programming.
